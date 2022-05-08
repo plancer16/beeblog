@@ -1,4 +1,4 @@
-## blog列表
+## A Blog with Beego
 
 ### 所用
 - gorm
