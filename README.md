@@ -8,21 +8,23 @@
 ### QuickStart
 1、下载
 
-``
-git clone git@github.com:plancer16/beeblog.git
-``
+```sh
+$ git clone git@github.com:plancer16/beeblog.git
+```
 
 2、配置依赖
 
-`
-go mod tidy
-`
+```sh
+$ go mod tidy
+```
+
+
 
 3、运行
 
-``
-go run main.go
-``
+```sh
+$ go run main.go
+```
 
 4、访问
 
